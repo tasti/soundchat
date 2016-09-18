@@ -1,7 +1,11 @@
 Khaled
 =========
 
-Forked from [https://github.com/antiboredom/audiogrep](antiboredom/audiogrep).
+![soundchat](https://raw.githubusercontent.com/tasti/soundchat/master/soundchat.png)
+
+---
+
+`audiogrep` forked from [https://github.com/antiboredom/audiogrep](antiboredom/audiogrep).
 
 ## Setting up audiogrep
 ### Requirements
